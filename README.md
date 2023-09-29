@@ -14,5 +14,8 @@
    after that the concept we are implementing here is the detecter cars center point is inside the cutom rectangle we drawn than it is consider as
    ocuupied and if the center point is away from the threshold value we fixed than it will consider as wrong position.
 
-3. Works Yet To Do:
+   ![Screenshot (9)](https://github.com/sethuraman17/Smart_City/assets/116188101/8df32e70-3509-46cc-bb29-42f7fcb4ed3c)
+
+
+4. Works Yet To Do:
    iam on the process of making 3d printed city and i'll implement this.
