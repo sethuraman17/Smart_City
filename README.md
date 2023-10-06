@@ -17,5 +17,6 @@
    ![Screenshot (9)](https://github.com/sethuraman17/Smart_City/assets/116188101/8df32e70-3509-46cc-bb29-42f7fcb4ed3c)
 
 
-4. Works Yet To Do:
-   iam on the process of making 3d printed city and i'll implement this.
+4. i have implemented this in my prototype which i have made:
+![smart_city](https://github.com/sethuraman17/Smart_City/assets/116188101/f85cd02c-58a5-4e15-b19f-500a728f00ca)
+
